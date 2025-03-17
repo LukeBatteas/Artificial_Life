@@ -2,7 +2,7 @@
 
 ## Introduction
 
-Human hands are amazingly versatile, capable of performing a wide array of complex tasks ranging from tool use to direct in-hand manipulation. 
+Human hands are amazingly versatile, capable of performing a wide array of complex tasks ranging from tool use to direct in-hand manipulation. This veratility makes human hands quite useful at altering and interacting with the enviorment in ways that other animals have not been see doing. Other animals however, are capable-to a lesser extent-of tool use. This brings up the question, is the design of human hands the optimal design for versatility? This in code, we explore the evolution of different manipulators whose sole goal is to perform a pinch grasp-a crucial grasp in human grasp taxonomy. We do this to explore the range of possible designs and to determine of other hand structures (relating to the placement of tendons, number of joints, and size of phalanges) can achieve similar to superior performance.
 
 
 ## Requirements
@@ -65,7 +65,7 @@ python3 plotting.py
 - num_imgs: How many images to merge. Unless you change the timespan of the simulation, this is constant. 
 
 
-The file can be run with the command shown below. Several example videos are also shown below.
+The file can be run with the command shown below. Several example videos can be seen in the lab_results/videos folder.
 
 ```
 python3 video.py
